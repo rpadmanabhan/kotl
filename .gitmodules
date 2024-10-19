@@ -1,0 +1,3 @@
+[submodule "backend/external/ddcutil"]
+	path = backend/external/ddcutil
+	url = https://github.com/rockowitz/ddcutil.git
